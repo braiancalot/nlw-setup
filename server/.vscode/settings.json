@@ -8,5 +8,8 @@
     "activityBarBadge.foreground": "#e7e7e7",
     "sash.hoverBorder": "#2f7c47"
   },
-  "peacock.color": "#215732"
+  "peacock.color": "#215732",
+  "cSpell.words": [
+    "dayjs"
+  ]
 }
